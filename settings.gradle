@@ -1,0 +1,5 @@
+rootProject.name = 'springboots'
+include 'entity'
+include 'api'
+include 'service'
+
